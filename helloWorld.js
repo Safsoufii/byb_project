@@ -1,3 +1,3 @@
-let message = "Git is Awesome!";
+let message = "Gt is Awesome!";
 
 console.log(message)
